@@ -1,2 +1,2 @@
 # abm-playground-1
-Ule's and my initial experimentation with agent-based modeling
+Ole's and my initial public experimentation with agent-based modeling
